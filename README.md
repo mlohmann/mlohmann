@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @mlohmann
 - 👀 Go check my portfolio at https://mattlohmann.com. The source code is here https://github.com/mlohmann/portfolio-lohmann.
+- 👾 Also checkout my open source AI agents and skills over here https://github.com/mlohmann/ai-skills.
 - 💻 I am currently looking for Senior/Staff level Frontend/FullStack Engineer job opportunities. 
