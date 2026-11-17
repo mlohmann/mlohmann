@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mlohmann
-- 👀 I’m interested in Frontend & Design
-- 🌱 I’m currently learning React Native, VR, and GraphQL
+- 👀 Go check my portfolio at https://mattlohmann.com. The source code is here https://github.com/mlohmann/portfolio-lohmann.
+- 💻 I am currently looking for Senior/Staff level Frontend/FullStack Engineer job opproetunies. 
